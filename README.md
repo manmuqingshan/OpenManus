@@ -1,14 +1,18 @@
-English | [简体中文](README_zh.md)
+English | [中文](README_zh.md)
 
-<p align="left">
-    <a href="https://discord.gg/6dn7Sa3a"><img src="https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat" alt="Discord Follow"></a>
-</p>
+[![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/gregpr07/browser-use/stargazers) &ensp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/openmanus?style=social)](https://twitter.com/openmanus) &ensp;
+[![Discord Follow](https://dcbadge.vercel.app/api/server/https://discord.gg/jkT5udP9bw?style=flat)](https://discord.gg/jkT5udP9bw) &ensp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# OpenManus 🙋
+# 👋 OpenManus
 
-Manus is incredible, but OpenManus can achieve any ideas without an Invite Code 🛫!
+Manus is incredible, but OpenManus can achieve any idea without an *Invite Code* 🛫!
 
-Our team members [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) from [@MetaGPT](https://github.com/geekan/MetaGPT) built it within 3 hours!
+Our team
+members [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) [@stellaHSR](https://github.com/stellaHSR)
+and [@Xinyu Zhang](https://x.com/xinyzng), we are from [@MetaGPT](https://github.com/geekan/MetaGPT) etc. The prototype
+is launched within 3 hours and we are keeping building!
 
 It's a simple implementation, so we welcome any suggestions, contributions, and feedback!
 
@@ -136,9 +140,11 @@ After comprehensively gathering feedback from community members, we have decided
 - [ ] Implement containerized deployment to simplify installation and usage workflows
 - [ ] Enrich example libraries with more practical cases, including analysis of both successful and failed examples
 - [ ] Frontend/backend development to improve user experience
-- [ ] RAG enhancement: Implement external knowledge graph retrieval and fusion mechanisms
 
 ## Community Group
+Join our discord group
+
+[![Discord Follow](https://dcbadge.vercel.app/api/server/https://discord.gg/jkT5udP9bw?style=flat)](https://discord.gg/jkT5udP9bw) &ensp;
 
 Join our networking group on Feishu and share your experience with other developers!
 
