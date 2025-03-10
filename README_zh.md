@@ -1,14 +1,18 @@
-[English](README.md) | 简体中文
+[English](README.md) | 中文
 
-<p align="left">
-    <a href="https://discord.gg/6dn7Sa3a"><img src="https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat" alt="Discord Follow"></a>
-</p>
+[![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/mannaandpoem/OpenManus/stargazers)
+&ensp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &ensp;
+[![Discord Follow](https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat)](https://discord.gg/DYn29wFk9z)
 
-# OpenManus 🙋
+# 👋 OpenManus
+
+[官方网站](https://openmanus.github.io/)
 
 Manus 非常棒，但 OpenManus 无需邀请码即可实现任何创意 🛫！
 
-我们来自 [@MetaGPT](https://github.com/geekan/MetaGPT) 的团队成员 [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) 在 3 小时内完成了开发！
+我们的团队成员 [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) https://github.com/stellaHSR 来自 [@MetaGPT](https://github.com/geekan/MetaGPT) 组织，我们在 3
+小时内完成了原型开发并持续迭代中！
 
 这是一个简洁的实现方案，欢迎任何建议、贡献和反馈！
 
@@ -128,15 +132,7 @@ python run_flow.py
 
 ## 发展路线
 
-在全面收集了社区成员的反馈后，我们决定采用 3-4 天为周期的迭代模式，逐步实现大家期待的功能。
-
-- [ ] 增强 Planning 能力，优化任务分解和执行逻辑
-- [ ] 引入标准化评测，基于 GAIA 和 TAU-Bench，持续评估并优化性能
-- [ ] 拓展模型适配，优化低成本应用场景
-- [ ] 实现容器化部署，简化安装和使用流程
-- [ ] 丰富示例库，增加更多实用案例，包含成功和失败示例的分析
-- [ ] 前后端开发，提供用户体验
-- [ ] RAG增强，实现外部知识图谱检索与融合机制
+- [ ] 提高用户界面的视觉吸引力，以创建更直观和无缝的用户体验。
 
 ## 交流群
 

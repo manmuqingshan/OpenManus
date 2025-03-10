@@ -1,14 +1,18 @@
-English | [简体中文](README_zh.md)
+English | [中文](README_zh.md)
 
-<p align="left">
-    <a href="https://discord.gg/6dn7Sa3a"><img src="https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat" alt="Discord Follow"></a>
-</p>
+[![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/mannaandpoem/OpenManus/stargazers)
+&ensp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &ensp;
+[![Discord Follow](https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat)](https://discord.gg/DYn29wFk9z)
 
-# OpenManus 🙋
+# 👋 OpenManus
 
-Manus is incredible, but OpenManus can achieve any ideas without an Invite Code 🛫!
+[Official Website](https://openmanus.github.io/)
 
-Our team members [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) from [@MetaGPT](https://github.com/geekan/MetaGPT) built it within 3 hours!
+Manus is incredible, but OpenManus can achieve any idea without an *Invite Code* 🛫!
+
+Our team
+members [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) [@stellaHSR](https://github.com/stellaHSR), we are from [@MetaGPT](https://github.com/geekan/MetaGPT). The prototype is launched within 3 hours and we are keeping building!
 
 It's a simple implementation, so we welcome any suggestions, contributions, and feedback!
 
@@ -128,18 +132,9 @@ Or contact @mannaandpoem via 📧email: mannaandpoem@gmail.com
 
 ## Roadmap
 
-After comprehensively gathering feedback from community members, we have decided to adopt a 3-4 day iteration cycle to gradually implement the highly anticipated features.
-
-- [ ] Enhance Planning capabilities, optimize task breakdown and execution logic
-- [ ] Introduce standardized evaluation metrics (based on GAIA and TAU-Bench) for continuous performance assessment and optimization
-- [ ] Expand model adaptation and optimize low-cost application scenarios
-- [ ] Implement containerized deployment to simplify installation and usage workflows
-- [ ] Enrich example libraries with more practical cases, including analysis of both successful and failed examples
-- [ ] Frontend/backend development to improve user experience
-- [ ] RAG enhancement: Implement external knowledge graph retrieval and fusion mechanisms
+- [ ] Improve the UI’s visual appeal to create a more intuitive and seamless user experience.
 
 ## Community Group
-
 Join our networking group on Feishu and share your experience with other developers!
 
 <div align="center" style="display: flex; gap: 20px;">
@@ -156,3 +151,15 @@ Thanks to [anthropic-computer-use](https://github.com/anthropics/anthropic-quick
 and [browser-use](https://github.com/browser-use/browser-use) for providing basic support for this project!
 
 OpenManus is built by contributors from MetaGPT. Huge thanks to this agent community!
+
+## Cite
+```bibtex
+@misc{openmanus2025,
+  author = {Xinbin Liang and Jinyu Xiang and Zhaoyang Yu and Jiayi Zhang and Sirui Hong},
+  title = {OpenManus: An open-source framework for building general AI agents},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/mannaandpoem/OpenManus}},
+}
+```
